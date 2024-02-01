@@ -4,6 +4,8 @@
 
 This project consists of a weather application built with React. It displays the current weather and a 5-day forecast for a specified city using data from the OpenWeatherMap API.
 
+This application looks good on both desktop and mobile.
+
 ### Prerequisites
 
 Before running the project locally, make sure you have the following installed:
