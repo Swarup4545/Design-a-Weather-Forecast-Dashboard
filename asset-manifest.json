@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Design-a-Weather-Forecast-Dashboard/static/css/main.e73f0975.css",
+    "main.js": "/Design-a-Weather-Forecast-Dashboard/static/js/main.732fa5d1.js",
+    "static/js/787.1937f22b.chunk.js": "/Design-a-Weather-Forecast-Dashboard/static/js/787.1937f22b.chunk.js",
+    "static/media/14.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/14.f6534da08f87fa7e9adf.jpg",
+    "static/media/main-bag.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/main-bag.9e5e8f517af68133d207.jpg",
+    "static/media/8.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/8.10db21f86d3644e05225.jpg",
+    "static/media/12.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/12.b81a3addc9211cc18b7c.jpg",
+    "static/media/9.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/9.b9874bb939c8eafaf89c.jpg",
+    "static/media/13.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/13.7b4b11cd87aae36978be.jpg",
+    "static/media/2.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/2.73d24f799251287d37c4.jpg",
+    "static/media/11.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/11.382a812d4bf6493b5f50.jpg",
+    "static/media/3.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/3.90281bd9948d05b82f9e.jpg",
+    "static/media/5.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/5.f5091042f0807eda4a03.jpg",
+    "static/media/1.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/1.d9411d0cd4121585f8b0.jpg",
+    "static/media/6.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/6.6978770014cad8166cf0.jpg",
+    "static/media/4.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/4.2033d94b0ed2d27b3927.jpg",
+    "static/media/10.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/10.835fe0662c2d1002561c.jpg",
+    "static/media/7.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/7.879c2842c2c9705d53b2.jpg",
+    "index.html": "/Design-a-Weather-Forecast-Dashboard/index.html",
+    "main.e73f0975.css.map": "/Design-a-Weather-Forecast-Dashboard/static/css/main.e73f0975.css.map",
+    "main.732fa5d1.js.map": "/Design-a-Weather-Forecast-Dashboard/static/js/main.732fa5d1.js.map",
+    "787.1937f22b.chunk.js.map": "/Design-a-Weather-Forecast-Dashboard/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e73f0975.css",
+    "static/js/main.732fa5d1.js"
+  ]
+}
