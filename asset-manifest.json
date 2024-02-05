@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Design-a-Weather-Forecast-Dashboard/static/css/main.711a7e8c.css",
-    "main.js": "/Design-a-Weather-Forecast-Dashboard/static/js/main.69004586.js",
+    "main.css": "/Design-a-Weather-Forecast-Dashboard/static/css/main.64425065.css",
+    "main.js": "/Design-a-Weather-Forecast-Dashboard/static/js/main.b661baad.js",
     "static/js/787.1937f22b.chunk.js": "/Design-a-Weather-Forecast-Dashboard/static/js/787.1937f22b.chunk.js",
     "static/media/14.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/14.f6534da08f87fa7e9adf.jpg",
     "static/media/main-bag.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/main-bag.9e5e8f517af68133d207.jpg",
@@ -19,12 +19,12 @@
     "static/media/10.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/10.835fe0662c2d1002561c.jpg",
     "static/media/7.jpg": "/Design-a-Weather-Forecast-Dashboard/static/media/7.879c2842c2c9705d53b2.jpg",
     "index.html": "/Design-a-Weather-Forecast-Dashboard/index.html",
-    "main.711a7e8c.css.map": "/Design-a-Weather-Forecast-Dashboard/static/css/main.711a7e8c.css.map",
-    "main.69004586.js.map": "/Design-a-Weather-Forecast-Dashboard/static/js/main.69004586.js.map",
+    "main.64425065.css.map": "/Design-a-Weather-Forecast-Dashboard/static/css/main.64425065.css.map",
+    "main.b661baad.js.map": "/Design-a-Weather-Forecast-Dashboard/static/js/main.b661baad.js.map",
     "787.1937f22b.chunk.js.map": "/Design-a-Weather-Forecast-Dashboard/static/js/787.1937f22b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.711a7e8c.css",
-    "static/js/main.69004586.js"
+    "static/css/main.64425065.css",
+    "static/js/main.b661baad.js"
   ]
 }
